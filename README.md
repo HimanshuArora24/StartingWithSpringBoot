@@ -1,1 +1,1 @@
-Basic CRUD APIs using Spring Boot, wiht postgres DB
+Basic CRUD APIs using Spring Boot, with postgres DB
